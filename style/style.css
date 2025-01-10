@@ -4,19 +4,24 @@
     padding: 0;
     
 }
+.body{
+    background-color: #f5f5f5;
+}
 .nav{
-    width: 1600px;
-    height: 100px;
+    width: 1280px;
+    /* height: 100px; */
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
     padding: 24px 160px 24px 160px;
-    background:  rgb(255, 255, 255);
+    /* background:  rgb(255, 255, 255); */
+    margin: auto;
+    margin-bottom: 20px;
     
 }
 
-h1{
+.heading{
     width: 222px;
     height: 38px;
     color: rgb(14, 14, 14);
@@ -41,20 +46,22 @@ border-radius: 8px;
 
 }
 .hero{
-    width: 1600px;
-    height: 560px;
-    padding: 24px 160px 24px 160px;
-    display: flex; 
-    justify-content: space-between; 
-    align-items: center;
-    gap: 64px;
+    width: 1280px;
+    /* height: 560px; */
+    /* padding: 24px 160px 24px 160px; */
     border-radius: 24px;
     background: rgb(198, 228, 214);    
+    margin: auto;
     }
+.hero2{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    gap: 64px;
+    padding: 60px 117px 60px 117px;
+}
 
 .headline{
-    width: 622px;
-    height: 29px;
     gap: 16;
     color: rgba(14, 14, 14, 0.5);
     font-family: Fira Sans;
@@ -90,4 +97,68 @@ height: 201px;
     border-radius: 8px;
     background: rgb(0, 106, 80);
     margin-top: 24px;
+}
+.Pillars2{
+    width: 1280px;
+    /* padding: 24px 32px 24px 80px; */
+    margin: auto;
+    padding-top: 80px;
+    
+
+}
+.Pillars{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+}
+
+.cardicon{
+    width: 302px;
+height: 244px;
+gap: 24;
+padding: 24px;
+box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgb(255, 255, 255);
+margin-top: 32px;
+}
+
+.Innovation{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+gap: 12;
+}
+.Dolor{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.card-box{
+    width: 1280px;
+    /* height: 244px; */
+    display: flex;
+justify-content:center;
+align-items: center;
+gap: 24px;
+margin: auto;
+/* padding: 24px 160px 24px 160px; */
+}
+.card{
+    /* width: 302px;
+    height: 244px; */
+    margin-bottom: 32px;
 }
