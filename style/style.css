@@ -42,10 +42,52 @@ border-radius: 8px;
 }
 .hero{
     width: 1600px;
-    height: 100px;
+    height: 560px;
+    padding: 24px 160px 24px 160px;
     display: flex; 
     justify-content: space-between; 
     align-items: center;
-    gap: 50px;
-    padding: 24px 160px 24px 160px;
+    gap: 64px;
+    border-radius: 24px;
+    background: rgb(198, 228, 214);    
     }
+
+.headline{
+    width: 622px;
+    height: 29px;
+    gap: 16;
+    color: rgba(14, 14, 14, 0.5);
+    font-family: Fira Sans;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: left;
+}
+.idea{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 56px;
+font-weight: 700;
+line-height: 67px;
+letter-spacing: 0%;
+text-align: left;
+width: 610px;
+height: 201px;
+}
+.btn2{
+    
+    width: 270px;
+    height: 56px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
+    border-radius: 8px;
+    background: rgb(0, 106, 80);
+    margin-top: 24px;
+}
