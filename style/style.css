@@ -503,6 +503,121 @@ text-align: left;
     border-radius: 16px;
     background: rgb(255, 255, 255);
     padding: 32px;
+    margin-bottom: 80px;
 }
+
+
+.news2{
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    margin-top: 80px;
+    margin-bottom: 24px;
+    width: 1280px;
+    /* padding: 24px 32px 24px 80px; */
+    margin: auto;
+    margin-bottom: 24px;
+    
+}
+.news3{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+width: 1280px;
+    /* padding: 24px 32px 24px 80px; */
+    margin: auto;
+    margin-bottom: 32px;
+}
+
+.news4{
+    width: 1280px;
+gap: 32;
+padding: 48px;
+border-radius: 24px;
+
+margin: auto;
+background: rgb(255, 255, 255);
+display: flex;
+flex-direction:row;
+justify-content: center;
+margin-bottom: 24px;
+}
+
+.news5{
+    margin-left: 32px;
+}
+
+.Satellite{
+    position: static;
+width: 408px;
+height: 306px;
+border-radius: 24px;
+margin-left: 32px;
+}
+
+.Satellite2{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 32px;
+font-weight: 700;
+line-height: 38px;
+padding-top: 8px;
+padding-bottom: 12px;
+}
+.al-jazeera{
+    position: static;
+width: 134px;
+height: 40px;
+padding-bottom: 12px;
+}
+.time{
+    display: flex;
+    gap: 12px;
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 12px;
+}
+.Not{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 32px;
+}
+
+.btn7{
+    border-radius: 8px;
+    background: rgb(0, 106, 80);
+    width: 139px;
+height: 48px;
+padding: 13px 26px 13px 26px;
+color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 17px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 0%;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-bottom: 10px;
+}
+
+
 
 
