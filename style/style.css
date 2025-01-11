@@ -225,18 +225,17 @@ margin-bottom: 24px;
 
 
 .card-box2{
-width: 410.67px;
-height: 325px;
+    width: 410.67px;
+    height: 325px;
     display: flex;
-justify-content:center;
-align-items: center;
-gap: 24px;
-margin: auto;
-/* box-sizing: border-box;
-border-radius: 16px; */
-
-background: rgba(84, 144, 245, 0.2);
-/* padding: 24px 160px 24px 160px; */
+    justify-content:center;
+    align-items: center;
+    gap: 24px;
+    margin: auto;
+    box-sizing: border-box;
+    border-radius: 16px;
+    background: rgba(84, 144, 245, 0.2);
+    padding: 32px 32px 32px 32px;
 }
 .card2{
     /* width: 302px;
@@ -246,20 +245,165 @@ background: rgba(84, 144, 245, 0.2);
 }
 
 
-.btn3{
+/* .btn3{
     
- 
     width: 122px;
     height: 41px;
     border-radius: 8px;
-background: rgb(84, 144, 245);
-}
+    background: rgb(84, 144, 245);
+} */
 
 .btn4{
-   
+    position: static;
+width: 122px;
+height: 41px;
+border-radius: 8px;
+background: rgb(84, 144, 245);
+color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: center;
+    
+}
+.card-containar{
+    display: flex;
+justify-content:center;
+align-items: center;
+gap: 24px;
+margin: auto;
+margin-bottom: 32px;
+
+}
+
+.Green-Energy{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 12px; 
+}
+
+.Creating2{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 4px;
+}
+.card-box3{
+    /* width: 410.67px; */
+    height: 325px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 24px;
+    margin: auto;
+    box-sizing: border-box;
+    border-radius: 16px;
+    background: rgb(198, 228, 214);
+    padding: 32px 32px 32px 32px;
+}
+.btn5{
+    
+    width: 122px;
+    height: 41px;
+    border-radius: 8px;
+    background: rgb(9, 161, 92);
     color: rgb(255, 255, 255);
     font-family: Fira Sans;
     font-size: 16px;
     font-weight: 600;
-    margin: 11 20;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.card-box4{
+    /* width: 410.67px; */
+    height: 325px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 24px;
+    margin: auto;
+    box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 16px;
+    background: rgb(247, 235, 207);
+}
+.btn6{
+    position: static;
+    width: 122px;
+    height: 41px;
+    border-radius: 8px;
+    background: rgb(255, 194, 57);
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.Modern-Infrastructure{
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-bottom: 12px;
+}
+
+.yunus{
+     width: 1280px;
+    /* height: 560px; */
+    /* padding: 24px 160px 24px 160px; */
+    
+    margin: auto;
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    padding: 48px 24px 48px 24px;
+}
+
+.yunus2{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 12px;
+}
+.yunus3{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 20px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 4px;
+}
+.yunus4{
+    color: rgba(14, 14, 14, 0.6);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
 }
