@@ -162,3 +162,104 @@ margin: auto;
     height: 244px; */
     margin-bottom: 32px;
 }
+
+
+
+.The-vision{
+    width: 1280px;
+    /* padding: 24px 32px 24px 80px; */
+    margin: auto;
+    padding-top: 80px;
+}
+.Vision{
+    margin-bottom: 24px;
+}
+
+.Vision2{
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+}
+.bd{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 32px;
+}
+
+.cardicon2{
+    width: 62px;
+height: 62px;
+margin-bottom: 24px;
+}
+
+.Digital-Transformation{
+    width: 346.67px;
+height: 24px;
+color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 12px;
+}
+.Creating{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 24px;
+}
+
+
+.card-box2{
+width: 410.67px;
+height: 325px;
+    display: flex;
+justify-content:center;
+align-items: center;
+gap: 24px;
+margin: auto;
+/* box-sizing: border-box;
+border-radius: 16px; */
+
+background: rgba(84, 144, 245, 0.2);
+/* padding: 24px 160px 24px 160px; */
+}
+.card2{
+    /* width: 302px;
+    height: 244px; */
+    margin-bottom: 32px;
+    padding: 32px;
+}
+
+
+.btn3{
+    
+ 
+    width: 122px;
+    height: 41px;
+    border-radius: 8px;
+background: rgb(84, 144, 245);
+}
+
+.btn4{
+   
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 11 20;
+}
