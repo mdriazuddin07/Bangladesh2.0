@@ -831,6 +831,7 @@ text-align: left;
     background: rgb(198, 228, 214);
     margin: auto;
     padding: 80px 100px 80px 100px;
+    margin-bottom: 80px;
 }
 
 .subscribe3{
@@ -860,6 +861,31 @@ text-align: center;
 margin-bottom: 24px;
 }
 
+/* .sub-container{
+    display: flex;
+}
+.sub-container2{
+    width: 600px;
+height: 55px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 24;
+padding: 18px 40px 18px 40px;
+} */
 
-
-
+.footer{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 25px;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0%;
+text-align: left;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin-bottom: 64px;
+}
