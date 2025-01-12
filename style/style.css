@@ -955,5 +955,14 @@ text-align: left;
 margin-bottom: 64px;
 }
 
+.img2{
+    width: 130px;
+height: 50px;
+display: flex;
+flex-direction: row;
+justify-items: center;
+
+}
+
 
 
