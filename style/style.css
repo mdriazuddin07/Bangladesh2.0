@@ -776,17 +776,17 @@ margin: auto;
 display: flex;
 
 box-sizing: border-box;
-border-bottom: 1px solid rgba(14, 14, 14, 0.15);
 background: rgb(255, 255, 255);
+
 margin-bottom: 32px;
 padding: 17px 34px 17px 34px;
 color: rgb(255, 255, 255);
 font-family: Fira Sans;
-font-size: 18px;
+font-size: 20px;
 font-weight: 600;
 line-height: 22px;
 letter-spacing: 0%;
-text-align: left;
+text-align: center;
 
 }
 
@@ -861,8 +861,8 @@ text-align: center;
 margin-bottom: 24px;
 }
 
-/* .sub-container{
-    display: flex;
+.sub-container{
+    
 }
 .sub-container2{
     width: 600px;
@@ -873,19 +873,87 @@ justify-content: flex-start;
 align-items: flex-start;
 gap: 24;
 padding: 18px 40px 18px 40px;
-} */
+}
+.sub-container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 24px;
+    margin-bottom: 25px;
+}
+.sub-form{
+    
+}
+.sub-input{
+    width: 600px;
+/* height: 55px; */
+display: flex;  
+justify-content: center;
+align-items: center;
+padding: 18px 40px 18px 40px;
+border-radius: 8px 0px 0px 8px;
+background: rgb(255, 255, 255);
+color: rgba(14, 14, 14, 0.3);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+}
+.sub-button{
+    width: 150px;
+height: 56px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 48;
+padding: 17px 34px 17px 34px;
+border-radius: 0px 8px 8px 0px;
+background: rgb(0, 106, 80);
+color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: left;
+
+}
+.promise{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: center;
+
+}
 
 .footer{
+    width: auto;
+height: 226px;
+background: rgb(255, 255, 255);
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+gap: 32;
+padding: 50px 160px 50px 160px;
+}
+.bd-2{
     color: rgb(14, 14, 14);
 font-family: Fira Sans;
-font-size: 25px;
+font-size: 32px;
 font-weight: 700;
 line-height: 38px;
 letter-spacing: 0%;
 text-align: left;
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
 margin-bottom: 64px;
 }
+
+
+
