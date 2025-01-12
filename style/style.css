@@ -767,8 +767,22 @@ text-align: left;
     justify-content: center;
     align-items: center;
     gap: 24px;
-    margin-bottom: 32px;
+    margin-bottom: 32px; 
 }
+.btn8:hover{
+    background-color: rgb(198, 228, 214);
+}
+.btn9:hover{
+    background-color: rgb(74, 202, 143);
+}
+.btn10:hover{
+    background-color: rgb(198, 228, 214);
+}
+.btn11:hover{
+    background-color: rgb(198, 228, 214);
+}
+
+
 .input{
     width: 1032px;
 height: 64px;
